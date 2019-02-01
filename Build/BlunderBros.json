@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "BlunderBros",
+"dataUrl": "BlunderBros.data.unityweb",
+"asmCodeUrl": "BlunderBros.asm.code.unityweb",
+"asmMemoryUrl": "BlunderBros.asm.memory.unityweb",
+"asmFrameworkUrl": "BlunderBros.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
